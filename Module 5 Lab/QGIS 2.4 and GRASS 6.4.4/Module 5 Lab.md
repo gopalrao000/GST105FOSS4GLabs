@@ -66,7 +66,7 @@ Let’s create the Location and Mapset.
 
 1.	Open GRASS 6.4.3 GUI.  In Windows, this can be found at Start->All Programs->QGIS Chugiak->GRASS GIS 6.4.3->GRASS 6.4.3 GUI
 
-This will open the ‘Welcome to GRASS GIS’ window (shown in Figure 1) and possibly a command prompt.  You can ignore the command prompt for this exercise.  We will use this Welcome window to create our new location.
+This will open the ‘Welcome to GRASS GIS’ window (shown in figure below) and possibly a command prompt.  You can ignore the command prompt for this exercise.  We will use this Welcome window to create our new location.
 
 ![Welcome to GRASS GIS Window](figures/Welcome_to_GRASS.png "Welcome to GRASS GIS Window")
 
@@ -159,8 +159,7 @@ In this task, we will import the raster file that we will perform an unsupervise
 		+ File: <lab directory>\tm_sacsub.img
 	+ List of GDAL layers
 		+ tm_sacsub.img: checked
->
->>d.	Add imported layers into layer tree: unchecked
+		+ Add imported layers into layer tree: unchecked
 
 ![Import raster data Options to Import tm_sacsub.img](figures/Import_raster_data.png "Import raster data Options to Import tm_sacsub.img")
 
